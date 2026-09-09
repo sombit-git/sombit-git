@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @sombit-git
 - 👀 I’m interested in new ideas
 - 🌱 I’m currently learning system architechture
-- 💞️ I’m looking to collaborate on Software Architech
+
+This is for new design pattern and new system architecture implementation on different use case here we will keep the use case details and its implementation process.
+For this branch implementation will exclede here.
 
 
 <!---
